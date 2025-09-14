@@ -49,7 +49,7 @@ O Utilizador poderá efetuar o `Upload` de 2 formas:
 Os `Relatórios` dos ficheiros analisados são visualizáveis com indicação de `LOW/MEDIUM/HIGH` e 
 de cor `Verde/Amarelo/Vermelho` correspondente. Os mesmos são armazenados em `JSON` e em `TXT`, 
 para maior facilidade de acesso, tendo a indicação da data em que foi feita a análise ao 
-` ficheiro, titulo e score`, no cartão correspondente do mesmo.
+`ficheiro, titulo e score`, no cartão correspondente do mesmo.
         
 Além das opções de `Ver Detalhes` e `Análise VirusTotal`, caso seja encontrada alguma técnica 
 de `null padding` embutida no ficheiro, o mesmo é limpo e é dada a opção de 
@@ -132,7 +132,7 @@ hashing, and `inter-process communication` (`IPC`).
 
 <br>
 
-## External API (VitusTotal)
+## External API
 
 <br>
 
