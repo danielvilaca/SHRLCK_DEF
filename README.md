@@ -101,6 +101,12 @@ base de dados da `VirusTotal` com +60 AV engines.
 - Aumentar capacidade para outros ficheiros `DOS` (`Word` / `Excel` / `Etc`);
 - Viabilizar novas formas de deteção para restantes técnicas (`Base64` / `Etc`)
 - Pacote de Setup/Build com Idiomas (`EN` / `FR` / `ESP` / `DE` / `RU`)
+
+<br>
+
+## Licença
+
+CC BY 4.0 - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
  
 
 # <h1 align="center"> ENGLISH
@@ -137,5 +143,11 @@ hashing, and `inter-process communication` (`IPC`).
 <br>
 
 ## Future Work
+
+<br>
+
+## Licence
+
+CC BY 4.0 - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
 
