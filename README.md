@@ -9,9 +9,6 @@
 
 <br>
 
-
-## Tecnologias
-
 `SHRLCK` é uma aplicação Desktop Multiplataforma desenvolvida em `Electron` (`Chromium` + `Node.js`) com interface moderna em `TailwindCSS`. 
 Utiliza `Python` para análise forense de ficheiros `PDF` e `PE`, comunicando com o frontend via `spawnPy` e `JSON`. 
 A aplicação integra a `VirusTotal API` para validação de segurança, recorrendo também a módulos nativos do `Node.js` para gestão de ficheiros, 
@@ -115,8 +112,6 @@ base de dados da `VirusTotal` com +60 AV engines.
 > The Full Details of the Project will only be available until the completion of the Master's Thesis on https://www.github.com/danielvilaca/SHRLCK
 
 <br>
-
-## Technologies
 
 `SHRLCK` is a cross-platform desktop application built with `Electron` (`Chromium` + `Node.js`) featuring a modern interface styled with `TailwindCSS`.
 It leverages `Python` for forensic analysis of `PDF` and `PE` files, communicating with the frontend via `spawnPy` and `JSON`. 
