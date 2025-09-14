@@ -1,12 +1,12 @@
 ===========================================================================
 
 
-# <h1 align="center"> Português
+# <h1 align="center"> PORTUGUÊS
 
 ===========================================================================
 
 
-# <h1 align="center"><b> Defesa do Projeto Final LESI </b></h1>
+# <h1 align="center"><b> Defesa do Projeto Final Engenharia de Sistemas Informáticos </b></h1>
 <p align="center">{ Os Detalhes Completos do Projeto apenas seram partilhados até à conclusão da Dissertação de Mestrado }</p>
 
 
@@ -112,6 +112,7 @@ base de dados da VirusTotal com +60 AV engines.
 ===========================================================================
 
 # <h1 align="center"><b> Defesa do Projeto Final LESI </b></h1>
+# <h1 align="center"><b> Final Computer Systems Engineering Project Defense </b></h1>
 <p align="center">{ The Full Details of the Project will only be available until the completion of the Master's Thesis }</p>
 
 ---
