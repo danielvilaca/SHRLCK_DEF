@@ -113,7 +113,7 @@ base de dados da `VirusTotal` com +60 AV engines.
 
 <br>
 
-`SHRLCK` is a cross-platform desktop application built with `Electron` (`Chromium` + `Node.js`) featuring a modern interface styled with `TailwindCSS`.
+`SHRLCK` is a Cross-Platform Desktop application built with `Electron` (`Chromium` + `Node.js`) featuring a modern interface styled with `TailwindCSS`.
 It leverages `Python` for forensic analysis of `PDF` and `PE` files, communicating with the frontend via `spawnPy` and `JSON`. 
 The application integrates the `VirusTotal API` for security validation, while also relying on native `Node.js` modules for file management, 
 hashing, and `inter-process communication` (`IPC`).
