@@ -7,7 +7,20 @@
 
 > Os Detalhes do Projeto serão partilhados depois da conclusão da Dissertação de Mestrado em https://www.github.com/danielvilaca/SHRLCK
 
-##
+<br>
+
+
+## Tecnologias
+
+`SHRLCK` é uma aplicação Desktop Multiplataforma desenvolvida em `Electron` (`Chromium` + `Node.js`) com interface moderna em `TailwindCSS`. 
+Utiliza `Python` para análise forense de ficheiros `PDF` e `PE`, comunicando com o frontend via `spawnPy` e `JSON`. 
+A aplicação integra a `VirusTotal API` para validação de segurança, recorrendo também a módulos nativos do `Node.js` para gestão de ficheiros, 
+hashing e `IPC` entre processos.
+
+
+<br>
+
+
 ## Upload
 
 <div align="center">
@@ -26,8 +39,8 @@ O Utilizador poderá efetuar o `Upload` de 2 formas:
     em uso, em que o limite do tamanho do ficheiro depende meramente da componente `RAM` do próprio
     `SO/OS` e da capacidade de processamento do `Python` / `Electron`, não existindo assim um limite fixo.
 
+<br>
 
-##
 ## Relatorios
 
 <div align="center">
@@ -46,7 +59,8 @@ de `null padding` embutida no ficheiro, o mesmo é limpo e é dada a opção de
 guardar uma nova versão limpa desse mesmo ficheiro.
 
 
-##
+<br>
+
 ## Log Técnico
 
 <div align="center">
@@ -65,7 +79,8 @@ entre outros, onde apesar da aplicação ser de intuito simplista, permite tamb�
 detalhada por parte de um especialista.
 
 
-##
+<br>
+
 ## Api Externa
 
 <div align="center">
@@ -80,7 +95,8 @@ sejam expostos, podendo complementar a análise heuristica com uma análise din�
 base de dados da `VirusTotal` com +60 AV engines. 
 
 
-##
+<br>
+
 ## Futuramente
 
 - Aplicar Machine Learning (`ANN` / `CNN`) para uma análise aos `PE's` (`Programmable Executables`);
@@ -98,19 +114,33 @@ base de dados da `VirusTotal` com +60 AV engines.
 
 > The Full Details of the Project will only be available until the completion of the Master's Thesis on https://www.github.com/danielvilaca/SHRLCK
 
-##
+<br>
+
+## Technologies
+
+`SHRLCK` is a cross-platform desktop application built with `Electron` (`Chromium` + `Node.js`) featuring a modern interface styled with `TailwindCSS`.
+It leverages `Python` for forensic analysis of `PDF` and `PE` files, communicating with the frontend via `spawnPy` and `JSON`. 
+The application integrates the `VirusTotal API` for security validation, while also relying on native `Node.js` modules for file management, 
+hashing, and `inter-process communication` (`IPC`).
+
+<br>
+
 ## Upload
 
-##
+<br>
+
 ## Reports
 
-##
+<br>
+
 ## Technical Log
 
-##
+<br>
+
 ## External API (VitusTotal)
 
-##
+<br>
+
 ## Future Work
 
 
