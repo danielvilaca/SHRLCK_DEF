@@ -1,24 +1,11 @@
-===========================================================================
-
-
 # <h1 align="center"> PORTUGUÊS
 
-===========================================================================
 
+# <h1 align="center">Exploração de Soluções para Reconhecimento de Malware em Ficheiros Propícios a serem usados em Técnicas de Phishing</h1>
 
-# <h1 align="center"><b> Defesa do Projeto Final de Engenharia de Sistemas Informáticos </b></h1>
-<p align="center">{ Os Detalhes Completos do Projeto apenas seram partilhados até à conclusão da Dissertação de Mestrado }</p>
+<br>
 
-
----
-
-<h1 align="center">Exploração de Soluções para Reconhecimento de Malware em Ficheiros Propícios a serem usados em Técnicas de Phishing</h1>
-
-
----
-
-<h3 align="center">SHRLCK</h4>
-<h3 align="center">(Strategic Heuristic Recognition & Lateralization of Cyber Knowledge) </h4>
+ Os Detalhes do Projeto serão partilhados depois da conclusão da Dissertação de Mestrado em https://www.github.com/danielvilaca/SHRLCK
 
 ##
 ## Upload
@@ -104,25 +91,13 @@ base de dados da VirusTotal com +60 AV engines.
 - Pacote de Setup/Build com Idiomas (EN / FR / ESP / DE / RU)
  
 
-
-===========================================================================
-
 # <h1 align="center"> ENGLISH
 
-===========================================================================
+# <h1 align="center">Exploration of Solutions for Malware Recognition in Files Prone to Phishing Techniques</h1>
 
-# <h1 align="center"><b> Defesa do Projeto Final LESI </b></h1>
-# <h1 align="center"><b> Final Computer Systems Engineering Project Defense </b></h1>
-<p align="center">{ The Full Details of the Project will only be available until the completion of the Master's Thesis }</p>
+<br>
 
----
-
-<h1 align="center">Exploration of Solutions for Malware Recognition in Files Prone to Phishing Techniques</h1>
-
----
-
-<h3 align="center">SHRLCK</h4>
-<h3 align="center">(Strategic Heuristic Recognition & Lateralization of Cyber Knowledge) </h4>
+The Full Details of the Project will only be available until the completion of the Master's Thesis on https://www.github.com/danielvilaca/SHRLCK
 
 ##
 ## Upload
