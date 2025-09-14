@@ -30,7 +30,7 @@ hashing e `IPC` entre processos.
 O Utilizador poderá efetuar o `Upload` de 2 formas:
        
 - Arrastando o ficheiro `PDF` para a zona central da aplicação, com um tamanho limite de `50 Mbs` 
-    por ficheiro (limite prático imposto pelo `Buffer` interno do `Chromium` (`IPC`));
+    por ficheiro (limite prático imposto pelo `Buffer` interno do `Electron` (`IPC`));
        
 - Clicando na zona central da mesma, escolhendo o ficheiro, através do explorador do sistema
     em uso, em que o limite do tamanho do ficheiro depende meramente da componente `RAM` do próprio
