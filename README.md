@@ -6,7 +6,7 @@
 ===========================================================================
 
 
-# <h1 align="center"><b> Defesa do Projeto Final Engenharia de Sistemas Informáticos </b></h1>
+# <h1 align="center"><b> Defesa do Projeto Final de Engenharia de Sistemas Informáticos </b></h1>
 <p align="center">{ Os Detalhes Completos do Projeto apenas seram partilhados até à conclusão da Dissertação de Mestrado }</p>
 
 
