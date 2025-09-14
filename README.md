@@ -5,7 +5,7 @@
 
 <br>
 
- Os Detalhes do Projeto serão partilhados depois da conclusão da Dissertação de Mestrado em https://www.github.com/danielvilaca/SHRLCK
+> Os Detalhes do Projeto serão partilhados depois da conclusão da Dissertação de Mestrado em https://www.github.com/danielvilaca/SHRLCK
 
 ##
 ## Upload
@@ -96,7 +96,7 @@ base de dados da `VirusTotal` com +60 AV engines.
 
 <br>
 
-The Full Details of the Project will only be available until the completion of the Master's Thesis on https://www.github.com/danielvilaca/SHRLCK
+> The Full Details of the Project will only be available until the completion of the Master's Thesis on https://www.github.com/danielvilaca/SHRLCK
 
 ##
 ## Upload
