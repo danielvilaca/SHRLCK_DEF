@@ -14,8 +14,8 @@ Utiliza `Python` para análise forense de ficheiros `PDF` e `PE`, comunicando co
 A aplicação integra a `VirusTotal API` para validação de segurança, recorrendo também a módulos nativos do `Node.js` para gestão de ficheiros, 
 hashing e `IPC` entre processos.
 
-"O principal objetivo da aplicação é permitir que utilizadores não técnicos realizem análises rápidas, mas eficazes, a ficheiros com possível
-malware, mantendo, no entanto, uma componente detalhada para casos de análise técnica."
+O principal objetivo da aplicação é permitir que utilizadores não técnicos realizem análises rápidas, mas eficazes, a ficheiros com possível
+malware, mantendo, no entanto, uma componente detalhada para casos de análise técnica.
 
 
 <br>
